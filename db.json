@@ -1,14 +1,43 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+    "userId": 1,
+    "id": 1,
+    "title": "Arts and Music",
+    "ratings": 3,
+    "author": " Marjane Satrapi",
+    "image": "https://img.thriftbooks.com/api/images/l/2540127da455500c49d0c50c71683b6f38f0b70b.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Sample1",
+    "ratings": 2,
+    "author": "Stanley B. Lippman",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51Z5b1PJXaL._SX406_BO1,204,203,200_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Sample2",
+    "ratings": 4,
+    "author": "Y. Daniel Liang",
+    "image": " https://images-na.ssl-images-amazon.com/images/I/51gMhiT%2BVjL._SL300_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Joy of Cooking",
+    "ratings": 4,
+    "author": "Irma S. Rombauer, Marion Rombauer Becker",
+    "publisher": "Simon and Schuster, 1975",
+    "image": "https://dictionary.cambridge.org/images/thumb/book_noun_001_01679.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "The Entertainment Industry",
+    "ratings": 5,
+    "author": "Michael John Haupert",
+    "publisher": "Greenwood Publishing Group, 2006",
+    "image": "https://dictionary.cambridge.org/images/thumb/book_noun_001_01679.jpg"
   }
-}
